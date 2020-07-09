@@ -2531,7 +2531,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8745141575939788046, guid: acdca141a402850489e74d0e24e6810a, type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8745141575939788046, guid: acdca141a402850489e74d0e24e6810a, type: 3}
       propertyPath: antialiasingMode
@@ -2547,6 +2547,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8745141575939788047, guid: acdca141a402850489e74d0e24e6810a, type: 3}
       propertyPath: isGlobal
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8745141575939788047, guid: acdca141a402850489e74d0e24e6810a, type: 3}
+      propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
